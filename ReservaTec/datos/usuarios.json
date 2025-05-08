@@ -1,0 +1,55 @@
+[
+    {
+        "id": "RESP001",
+        "nombre": "Juan Pérez",
+        "rol": "responsable_area",
+        "unidad_academica": "Facultad de Ingeniería",
+        "areas_responsable": [
+            "Edificio A",
+            "Laboratorios Computación"
+        ]
+    },
+    {
+        "id": "PROF001",
+        "nombre": "María Rodríguez",
+        "rol": "profesor",
+        "departamento": "Sistemas Computacionales"
+    },
+    {
+        "id": "EST001",
+        "nombre": "Carlos López",
+        "rol": "estudiante",
+        "carrera": "Ingeniería en Sistemas",
+        "semestre": 6
+    },
+    {
+        "id": "ADM001",
+        "nombre": "Ana Martínez",
+        "rol": "administrativo",
+        "departamento": "Coordinación Académica"
+    },
+    {
+        "id": "06",
+        "nombre": "rafael",
+        "rol": "administrativo",
+        "departamento": "sistemas "
+    },
+    {
+        "id": "0123",
+        "nombre": "juan ",
+        "rol": "administrativo",
+        "unidad_academica": "",
+        "email": "",
+        "cargo": "",
+        "departamento": "finanzas "
+    },
+    {
+        "id": "02554",
+        "nombre": "junsns ",
+        "rol": "estudiante",
+        "unidad_academica": "sistemas ",
+        "email": "",
+        "carrera": "sistemas ",
+        "semestre": "6"
+    }
+]

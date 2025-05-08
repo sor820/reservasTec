@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "A101",
+        "tipo": "salon",
+        "capacidad": 30,
+        "responsable": {
+            "id": "RESP001",
+            "nombre": "Juan Pérez"
+        }
+    },
+    {
+        "nombre": "LAB-COMP1",
+        "tipo": "laboratorio",
+        "capacidad": 25,
+        "responsable": {
+            "id": "RESP001",
+            "nombre": "Juan Pérez"
+        }
+    },
+    {
+        "nombre": "SALA-JUNTAS1",
+        "tipo": "salajuntas",
+        "capacidad": 15,
+        "responsable": {
+            "id": "RESP001",
+            "nombre": "Juan Pérez"
+        }
+    },
+    {
+        "nombre": "AUD-PRINCIPAL",
+        "tipo": "auditorio",
+        "capacidad": 100,
+        "responsable": {
+            "id": "RESP001",
+            "nombre": "Juan Pérez"
+        }
+    },
+    {
+        "nombre": "sala magana ",
+        "tipo": "auditorio",
+        "capacidad": 1000,
+        "responsable": {
+            "id": "RESP001",
+            "nombre": "Juan Pérez"
+        }
+    },
+    {
+        "nombre": "sala_magana ",
+        "tipo": "laboratorio",
+        "capacidad": 100,
+        "responsable": {
+            "id": "ADM001",
+            "nombre": "Ana Martínez"
+        }
+    },
+    {
+        "nombre": "quimica1 ",
+        "tipo": "laboratorio",
+        "capacidad": 12,
+        "responsable": {
+            "id": "ADM001",
+            "nombre": "Ana Martínez"
+        }
+    },
+    {
+        "nombre": "labo1",
+        "tipo": "laboratorio",
+        "capacidad": 23,
+        "responsable": {
+            "id": "ADM001",
+            "nombre": "Ana Martínez"
+        }
+    }
+]
